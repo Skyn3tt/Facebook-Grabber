@@ -1,0 +1,1 @@
+mkdir output & mkdir cookie
